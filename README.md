@@ -34,7 +34,7 @@ Then paste `templates/recap-email.md` B and attach `templates/change-order.md`.
 
 **$49 USD**, one-time, unlimited buyers.
 
-Pay with the Stripe Payment Link in `PRICE.md`. After payment, open a GitHub issue titled `CLAIM: Scope Creep Loss Desk` and include the receipt last-4. If checkout is down, star + watch `foundry-ledger` and open the same CLAIM issue.
+Pay https://buy.stripe.com/fZu3cw8BOdjlgcaeUtcIE09 then open a GitHub issue titled `CLAIM: Scope Creep Loss Desk` with the receipt last-4. If checkout is down, star + watch `foundry-ledger` and open the same CLAIM issue.
 
 This listing does not claim any sales.
 
